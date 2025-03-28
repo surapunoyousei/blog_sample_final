@@ -6,7 +6,7 @@
           platformVersion="128.12.1"
           actions="silent">
     <patch type="complete"
-           URL="https://github.com/Floorp-Projects/Floorp/releases/download/untagged-45b2dabce8438bf70aba/WINNT-x86_64.mar"
+           URL="https://github.com/Floorp-Projects/Floorp/releases/download/v11.25.0/WINNT-x86_64.mar"
            size="94388224"/>
   </update>
 </updates>
