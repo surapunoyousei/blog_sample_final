@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<updates>
+  <update type="minor"
+          displayVersion="11.25.0"
+          appVersion="128.12.1"
+          platformVersion="128.12.1"
+          actions="silent">
+    <patch type="complete"
+           URL="https://github.com/Floorp-Projects/Floorp/releases/download/untagged-45b2dabce8438bf70aba/WINNT-x86_64.mar"
+           size="94388224"/>
+  </update>
+</updates>
